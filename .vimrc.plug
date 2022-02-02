@@ -1,0 +1,32 @@
+call plug#begin('~/.vim/plugged')
+
+" Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+" youcompleteme - A code-completion engine
+Plug 'valloric/youcompleteme'
+" ale(Asynchronous Lint Engine) - linting while editing the file
+Plug 'dense-analysis/ale'
+" vim-airline - status bar
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+" Syntastic - syntax checking hacks by vim
+Plug 'scrooloose/syntastic'
+" vimWiki - number of linked text files
+Plug 'vimwiki/vimwiki'
+" vifm.vim - terminal file manager
+Plug 'vifm/vifm.vim'
+" easymotion - motions in vim
+Plug 'easymotion/vim-easymotion'
+Plug 'haya14busa/incsearch.vim'
+Plug 'haya14busa/incsearch-easymotion.vim'
+
+" instant markdown - to preview markdown files
+Plug 'instant-markdown/vim-instant-markdown'
+
+" preview - to preview markdown files
+" Plug 'kannokanno/previm'
+
+" Goyo - Distraction free writing
+Plug 'junegunn/goyo.vim'
+
+call plug#end()
