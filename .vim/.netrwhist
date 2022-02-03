@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/smoggysizzy/.config/alacritty'
+let g:netrw_dirhist_7='/home/smoggysizzy/gitFiles/lux'
+let g:netrw_dirhist_6='/home/smoggysizzy/gitFiles'
+let g:netrw_dirhist_5='/home/smoggysizzy'
+let g:netrw_dirhist_4='/home/smoggysizzy/images'
+let g:netrw_dirhist_3='/home/smoggysizzy/gitFiles/lux'
+let g:netrw_dirhist_2='/home/smoggysizzy/gitFiles'
+let g:netrw_dirhist_1='/home/smoggysizzy/.config/alacritty'
